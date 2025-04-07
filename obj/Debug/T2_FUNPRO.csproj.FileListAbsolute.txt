@@ -1,0 +1,11 @@
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\bin\Debug\T2_FUNPRO.exe.config
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\bin\Debug\T2_FUNPRO.exe
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\bin\Debug\T2_FUNPRO.pdb
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.csproj.AssemblyReference.cache
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.Principal.resources
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.Properties.Resources.resources
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.csproj.GenerateResource.cache
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.csproj.CoreCompileInputs.cache
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.exe
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.pdb
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.Mantenimiento_Veterinaria.resources

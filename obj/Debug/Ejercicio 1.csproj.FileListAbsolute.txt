@@ -1,0 +1,22 @@
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\bin\Debug\T2_FUNPRO.exe.config
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\bin\Debug\T2_FUNPRO.exe
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\bin\Debug\T2_FUNPRO.pdb
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.Mantenimiento_Veterinaria.resources
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.Principal.resources
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.Properties.Resources.resources
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.exe
+D:\Guido Arellano T2 FUNPRO\T2 - Fundamentos de programacion\T2_FUNPRO\obj\Debug\T2_FUNPRO.pdb
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\bin\Debug\T2_FUNPRO.exe.config
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\bin\Debug\T2_FUNPRO.exe
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\bin\Debug\T2_FUNPRO.pdb
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\T2_FUNPRO.Mantenimiento_Veterinaria.resources
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\T2_FUNPRO.Principal.resources
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\T2_FUNPRO.Properties.Resources.resources
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\T2_FUNPRO.exe
+C:\Users\Home\Desktop\Fundamentos de Programación\T2_EXODIA\T2_FUNPRO\obj\Debug\T2_FUNPRO.pdb
